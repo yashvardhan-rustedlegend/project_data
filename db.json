@@ -133,6 +133,14 @@
             "phone": "122341234122",
             "password": "hello",
             "id": 4
+        },
+        {
+            "fname": "CharanKumar",
+            "lname": "K",
+            "email": "admin",
+            "phone": "122341234122",
+            "password": "admin",
+            "id": 5
         }
     ]
 }
